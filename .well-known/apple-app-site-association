@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7Z36368UPU.com.fitsquare.app",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}

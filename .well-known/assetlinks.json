@@ -1,0 +1,10 @@
+
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fitsquare.app",
+      "sha256_cert_fingerprints":
+      ["AB:C3:EF:DA:D3:96:46:0C:43:56:85:C7:9D:DE:2D:B1:BA:C9:EA:E4:75:8F:CE:EF:0E:3A:55:03:6B:FE:05:23"]
+    }
+  }]
